@@ -1,0 +1,14 @@
+logs/
+node_modules/
+package-lock.json
+coverage/
+.idea/
+run/
+.DS_Store
+typings/
+.nyc_output/
+test/
+.github
+.travis.yml
+appveyor.yml
+jsconfig.json
